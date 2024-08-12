@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cocoisarobo 
-- 👀 I’m interested in IoT, robotics, programming, DSA, learning interesting technical concepts ^-^
+- 👀 I’m interested in IoT, robotics, programming, learning interesting technical concepts ^-^
 - 🌱 I’m currently learning embedded software development! 
 - 💞️ I’m looking to collaborate on anything that is interesting ;)
 - 📫 How to reach me: Gmail - chocobitechocochips@gmail.com | Discord - @ppsmallestchild
