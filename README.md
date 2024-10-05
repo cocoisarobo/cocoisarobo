@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT, robotics, programming, learning interesting technical concepts ^-^
 - 🌱 I’m currently learning embedded software development! 
 - 💞️ I’m looking to collaborate on anything that is interesting ;)
-- 📫 How to reach me: Gmail - chocobitechocochips@gmail.com | Discord - @ppsmallestchild
+- 📫 How to reach me: Discord @ppsmallestchild
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I was ambidextrous when i was little 
 
